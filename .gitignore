@@ -34,3 +34,7 @@
 yarn-debug.log*
 .yarn-integrity
 /nbproject/private/
+
+# Ignore Mac OS X sys files
+*.DS_Store
+*/.DS_Store
